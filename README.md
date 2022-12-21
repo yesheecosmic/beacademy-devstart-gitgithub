@@ -1,1 +1,1 @@
-# Conhecendo Git e Github, ajustes na config.
+# Conhecendo Git e Github, ajustes na config e username.
